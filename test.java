@@ -10,5 +10,6 @@ public class test {
 		System.out.println("hola de nuevo");
 		System.out.println("tercer commit RamaA");
 		System.out.println("primer cambio desde el remoto");
+		System.out.println("primer cambio desde el local");
  }
 }
